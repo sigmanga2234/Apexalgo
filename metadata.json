@@ -1,0 +1,6 @@
+{
+  "name": "Trading Mentorship Website",
+  "description": "A sleek, modern and interactive base template website for a trading mentorship featuring liquid glass design, fake testimonials, and interactive trading tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
